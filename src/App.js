@@ -4,6 +4,7 @@ import Sidebar from './components/Sidebar';
 import ProductDisplay from './components/ProductDisplay';
 import Footer from './components/Footer';
 import './styles.css';
+import './output.css'
 
 function App() {
     return (
